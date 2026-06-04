@@ -1,14 +1,35 @@
-# WyskeeTown License Repository
+# WT License System
 
-This repository contains the official licensing templates used by Wyskee'sTown services.
+This repository contains the official XML license template used for WyskeeTown assets.
 
-## Contents
-- Sprite License Template
-- Fanart License Template
-- XML License Template
-- General Asset License Template
+---
 
 ## Purpose
-This repository is used for documentation and standardization of licensing across all Wyskee'sTown digital assets.
 
-Created by: wyskee
+Any XML file containing the `<WyskeeTown>` block is considered a licensed and protected asset.
+
+---
+
+## Meaning
+
+- Creator → original author (wyskee)
+- Buyer → licensed owner of the asset
+- OrderID → unique transaction ID (WT-XXXX)
+- License → defines usage rights
+
+---
+
+## Rules
+
+Unless explicitly licensed:
+
+- No unauthorized use
+- No redistribution
+- No resale
+- No sharing outside licensed owner
+
+---
+
+## Important
+
+The presence of `<WyskeeTown>` indicates the asset is protected under this system.
