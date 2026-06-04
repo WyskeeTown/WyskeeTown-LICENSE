@@ -1,0 +1,22 @@
+<WyskeeTown>
+    <Creator>wyskee</Creator>
+
+    <Statement>
+        Unauthorized use, distribution, resale, or sharing outside the licensed owner is prohibited.
+    </Statement>
+
+    <License>
+        <OrderID>WT-XXXX</OrderID>
+        <Buyer>[Buyer Name]</Buyer>
+        <Date>[YYYY-MM-DD]</Date>
+
+        <Grant>
+            Licensed to buyer for use, modification, and integration only.
+        </Grant>
+    </License>
+
+    <Contact>
+        <CreatorContact>https://discord.com/users/https://discord.com/users/1039469904107163698</CreatorContact>
+        <BuyerContact>https://discord.com/users/[buyer_id]</BuyerContact>
+    </Contact>
+</WyskeeTown>
