@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemRenderer>
+
+    <WyskeeTown>
+        <Creator>wyskee</Creator>
+
+        <Statement>
+            Unauthorized use, distribution, resale, or sharing outside the licensed owner is prohibited.
+        </Statement>
+
+        <License>
+            <OrderID>WT-0001</OrderID>
+            <Buyer>mike</Buyer>
+            <Date>2026-06-04</Date>
+
+            <Grant>
+                Licensed to buyer for use, modification, and integration only.
+            </Grant>
+        </License>
+
+        <Contact>
+            <CreatorContact>https://discord.com/users/1039469904107163698</CreatorContact>
+            <BuyerContact>https://discord.com/users/1497149553395241030</BuyerContact>
+        </Contact>
+    </WyskeeTown>
+
+    <Data>
+        <Sprite name="item_Sprite" fileName="game/file.rttex" textureSize="32" frame="67,69"/>
+    </Data>
+
+    <RenderRules>
+        <RenderShirt>
+            <SpriteRender name="item_Sprite" offset="-0.5,-20" blend="PREMULTIPLIED_ALPHA"/>
+        </RenderShirt>
+    </RenderRules>
+
+</ItemRenderer>
